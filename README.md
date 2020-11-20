@@ -13,7 +13,7 @@ Trivial things such as leaving a message for loved ones or passing on a verified
 in some way. Death app is meant to guide people through that process.
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
+
 - **Category:** Productivity / Mental Health
 - **Mobile:** Death app doesn't necessarily have to be a mobile app. It can also be a web app. Making it accessible to USSD or just by filling out
 forms may be viable in some places.
@@ -78,8 +78,6 @@ before someone may need to adjust something. Putting in reminders to get small p
   + Stream
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ### Digital Wireframes & Mockups
 
